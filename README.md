@@ -1,2 +1,2 @@
-# javascript_colorGame
-My first mini JavaScript project, made for fun and practice
+# javascript-colorGame
+A simple color picker game made with JavaScript
